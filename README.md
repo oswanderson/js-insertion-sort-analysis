@@ -1,3 +1,3 @@
 #About the algorithm
 
-The algorithm passed in half of the tests, but "failed" in other due timeout. Still working on it.
+The algorithm passed on half of the tests, but "failed" on others due timeout. Still working on it.
